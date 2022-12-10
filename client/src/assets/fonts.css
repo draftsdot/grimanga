@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./fonts/poppins/Poppins.ttf');
+}
+
+@font-face {
+    font-family: 'Grim Reaper';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./fonts/grimreaper/GrimReaper.ttf');
+}
+
+:root {
+    --ff-poppins: 'Poppins';
+    --ff-grim: 'Grim reaper';
+
+    --fz-small: 10px;
+    --fz-normal: 14px;
+    --fz-strong: 26px;
+}
